@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **akash.shyam2008@gmail.com**
 
-- ⚡ Fun fact - I love **source and pizza**
+- ⚡ Fun fact - I love **open source and pizza**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
