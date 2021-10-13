@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashcodes" target="blank"><img src="https://img.shields.io/twitter/follow/akashcodes?logo=twitter&style=for-the-badge" alt="akashcodes" /></a> </p>
 
-- 🔭 I’m currently working on **prodify(beta)**
+- 🔭 I’m currently working on **blockhub**
 
 - 🌱 I’m currently learning **DevOps, GraphQL and PostgreSQL**
 
